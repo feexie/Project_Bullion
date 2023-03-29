@@ -6,8 +6,8 @@ The Nitda Blockchain Prgram is an initiative of the Federal Government of Nigeri
 *Html CSS Javascript and Golang methodology and practical application.
 *Introduction to Bitcoin theory
 *Bitcoin Enterprise
+*Bitcoin Development
 *Bitcoin Infrastructure
 *Hash Fuction
 *Merkle Trees
 *Digital Signatures
-
